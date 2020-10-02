@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    padding: 50px; 
+}
+img{
+    position: absolute;
+    bottom: -50px;
+    left: 20px;
+    height: 2cm;
+    width: 2cm;
+    margin-right:800px;
+    margin: 10px;
+}
+#container{
+    margin: auto;
+    width: 350px;
+    height: 500px;
+    box-shadow: 0 0 8px grey;
+    border-radius: 20px;
+}
+#firstbox{
+    padding: 20px;
+}
+#firstbox button{
+    background-color: yellow;
+    margin: 1px;
+    margin-right: 250px;
+    margin-bottom: 70px;
+    padding: 3px;
+    padding-right: 10px;
+    border-radius: 4px;
+    font-weight: 20px;
+    font-size: bold;
+    border-color: yellow;
+    cursor: pointer;
+    
+    
+}
+#firstbox{
+    background-image: url(summer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 55%;
+    position: relative;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+#firstbox p{
+    padding: 20px;
+    color: white;
+    margin-right: 400px;
+}
+#firstbox h1{
+    padding-bottom: 10px;
+    color: white;
+    margin-bottom: 3px;
+    
+}
+#secondbox{
+    padding: 0 15px;
+    padding-top:55px;
+}
+#secondbox h2{
+    color: #ff0000;
+    padding-top: 7px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+#my{
+    color: rgb(90, 180, 216);
+    margin-left: 200px;
+    margin-bottom: 1px;
+    padding-bottom:15px ;
+}
+footer{
+    color: rgb(128, 128, 124);
+    margin-top: 1px;
+    font-size: 13;
+    width: 70%;
+    margin-left: 20px;
+    font-weight: lighter;
+    padding: 1px;
+}
+#ppl{
+    padding: 7px;
+    padding-bottom: 10px;
+    font-size: bold;
+    font-family: monospace;
+    
+
+
+}
+    
